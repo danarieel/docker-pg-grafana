@@ -1,0 +1,9 @@
+.env
+*.env
+data/
+volumes/
+postgres-data/
+grafana-data/
+.DS_Store
+.idea/
+.vscode/
