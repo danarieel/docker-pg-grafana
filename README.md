@@ -13,4 +13,5 @@ Docker, Docker Compose, PostgreSQL 16, Grafana, SQL.
 docker compose up -d
 ```
 Grafana: http://localhost:3000 (admin/admin)
+
 PostgreSQL: localhost:5432 (user: demo, password: demo, db: demo)
