@@ -5,7 +5,7 @@
 ## Что делает
 Разворачивает базу данных PostgreSQL, автоматически заполняет её сгенерированными данными (транзакции криптообменника, 50 000 строк) и поднимает Grafana с готовым дашбордом для визуализации.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboards.png)
 
 ## Стек
 Docker, Docker Compose, PostgreSQL 16, Grafana, SQL.
