@@ -1,0 +1,13 @@
+apiVersion: 1
+datasources:
+  - name: PostgreSQL
+    type: postgres
+    uid: postgres-demo-uid
+    url: db:5432
+    user: demo
+    secureJsonData:
+      password: demo
+    jsonData:
+      database: demo
+      sslmode: disable
+      postgresVersion: 1600
