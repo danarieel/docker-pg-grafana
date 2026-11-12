@@ -1,9 +1,11 @@
 .env
 *.env
+*.log
 data/
 volumes/
 postgres-data/
 grafana-data/
+pgdata/
 .DS_Store
 .idea/
 .vscode/
