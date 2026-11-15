@@ -2,6 +2,7 @@
 
 [English](#english) | [Русский](#русский)
 
+![dashboards.png](dashboards.png)
 ---
 
 ## Русский
