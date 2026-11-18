@@ -20,8 +20,8 @@ Docker, Docker Compose, PostgreSQL 16, Grafana, SQL.
 ```bash
 docker compose up -d
 ```
-* Grafana: `http://localhost:3000` (admin/admin)
-* PostgreSQL: `localhost:5432` (user: demo, password: demo, db: demo)
+* Grafana: `http://localhost:3001` (admin/admin)
+* PostgreSQL: `localhost:5433` (user: demo, password: demo, db: demo)
 
 **Внимание:** Учётные данные (admin/admin и demo/demo) предназначены только для локального запуска. В production их нужно менять.
 
@@ -55,8 +55,8 @@ Docker, Docker Compose, PostgreSQL 16, Grafana, SQL.
 ```bash
 docker compose up -d
 ```
-* Grafana: `http://localhost:3000` (admin/admin)
-* PostgreSQL: `localhost:5432` (user: demo, password: demo, db: demo)
+* Grafana: `http://localhost:3001` (admin/admin)
+* PostgreSQL: `localhost:5433` (user: demo, password: demo, db: demo)
 
 **Warning:** Credentials (admin/admin and demo/demo) are for local use only. Change them in production.
 
